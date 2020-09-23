@@ -9,11 +9,6 @@ p{
     padding-top: 20px;
 
 }
-/* img{
-    float: center;
-    border-radius: 20px;
-    padding: 5px;
-} */
 body {
     background-image: url(https://monodomo.com/free-wallpapers/anime-dark-landscape-wallpaper-images-For-Free-Wallpaper.jpg);
     background-repeat:no-repeat;
@@ -40,4 +35,7 @@ body {
   .topnav a.active {
     background-color: cornflowerblue;
     color: white;
+  }
+  img{
+      padding: 10px;
   }
