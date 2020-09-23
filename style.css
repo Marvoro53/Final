@@ -3,7 +3,7 @@ h2{
     color: white;
 }
 p{
-    text-align: left;
+    /* text-align: left; */
     color: white;
     padding-left: 10px;
     padding-top: 20px;
@@ -38,4 +38,17 @@ body {
   }
   img{
       padding: 10px;
+  }
+  .footer {
+    position: sticky;
+    left: 0;
+    bottom: 0;
+    width: 100%;
+    background-color: cornflowerblue;
+    color: white;
+    text-align: center;
+  }
+  a{
+      color: white;
+      text-decoration: underline;
   }

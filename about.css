@@ -27,13 +27,12 @@
     background-repeat:no-repeat;
     color: white;
 }
-footer {
-    text-align: center;
-    padding: 3px;
+.footer {
+    position: fixed;
+    left: 0;
+    bottom: 0;
+    width: 100%;
     background-color: cornflowerblue;
     color: white;
-    position: fixed;
-    left: 0px;
-    bottom: 0px;
-    width: 100%;
+    text-align: center;
   }
