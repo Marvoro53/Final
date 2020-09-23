@@ -1,17 +1,19 @@
 h2{
     padding-top: 20px;
+    color: white;
 }
 p{
     text-align: left;
     color: white;
     padding-left: 10px;
     padding-top: 20px;
+
 }
-img{
-    float: right;
+/* img{
+    float: center;
     border-radius: 20px;
     padding: 5px;
-}
+} */
 body {
     background-image: url(https://monodomo.com/free-wallpapers/anime-dark-landscape-wallpaper-images-For-Free-Wallpaper.jpg);
     background-repeat:no-repeat;
